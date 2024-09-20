@@ -1,0 +1,47 @@
+name: learning
+channels:
+- conda-forge
+dependencies:
+- python=3.11.*
+- cython
+- ipython
+- jupyter
+- pytest
+- nose
+- mkl
+- mkl-service
+- numpy
+- scipy
+- pandas
+- pyarrow
+- pytables
+- matplotlib
+- scikit-learn
+- statsmodels
+- seaborn
+- patsy
+- tqdm
+- pip
+- watermark
+- pywin32  # this is not compatible with unix installs 
+- m2w64-toolchain  # this is not compatible with unix installs 
+- xlrd
+- xlwt
+- xlsxwriter
+- geopandas
+- folium
+- pyodbc
+- transformers
+- datasets 
+# Add pytorch and torchvision later by getting the correct version from the pytorch website
+
+- pip:
+  - duckdb
+  - SQLAlchemy
+  - fastapi
+  - nltk
+  - uvicorn
+  - python-multipart
+  - langchain
+  - langchain-openai
+  - langchain-community
