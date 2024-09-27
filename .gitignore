@@ -1,4 +1,6 @@
 notebooks/results/
+notebooks/vqa_blip_rad_finetuned/
+projects/RAG/chroma_db/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

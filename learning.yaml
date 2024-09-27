@@ -45,3 +45,5 @@ dependencies:
   - langchain
   - langchain-openai
   - langchain-community
+  - sentence-transformers
+  - chromadb
