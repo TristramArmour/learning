@@ -47,3 +47,5 @@ dependencies:
   - langchain-community
   - sentence-transformers
   - chromadb
+  - pypdf
+  - docx2txt
