@@ -45,6 +45,7 @@ dependencies:
   - langchain
   - langchain-openai
   - langchain-community
+  - langchain-chroma
   - sentence-transformers
   - chromadb
   - pypdf
