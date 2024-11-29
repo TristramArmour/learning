@@ -1,0 +1,32 @@
+name: tts
+channels:
+- conda-forge
+dependencies:
+- python=3.11.*
+- cython
+- ipython
+- jupyter
+- pytest
+- nose
+- mkl
+- mkl-service
+- numpy
+- scipy
+- pandas
+- pyarrow
+- pytables
+- matplotlib
+- scikit-learn
+- statsmodels
+- seaborn
+- tqdm
+- pip
+- xlrd
+- xlwt
+- xlsxwriter
+- pyodbc
+- datasets
+- pip:
+  - transformers
+  - torch
+  - TTS
