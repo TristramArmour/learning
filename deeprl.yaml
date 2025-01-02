@@ -1,0 +1,39 @@
+name: deeprl
+channels:
+- conda-forge
+dependencies:
+- python=3.7.*
+- cython
+- ipython
+- jupyter
+- pytest
+- nose
+- mkl
+- mkl-service
+- numpy
+- scipy
+- pandas
+- pyarrow
+- pytables
+- matplotlib
+- scikit-learn
+- statsmodels
+- seaborn
+- tqdm
+- pip
+- watermark
+- pywin32  # this is not compatible with unix installs 
+- m2w64-toolchain  # this is not compatible with unix installs 
+- xlrd
+- xlwt
+- xlsxwriter
+- pyodbc
+
+# Add pytorch and torchvision later by getting the correct version from the pytorch website
+
+- pip:
+  - tensorflow==2.3.0
+  - gym==0.17.1
+  - keras==2.3.1
+  - keras-rl2
+  - pygame
