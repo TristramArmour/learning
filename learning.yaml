@@ -50,3 +50,4 @@ dependencies:
   - chromadb
   - pypdf
   - docx2txt
+  - google-generativeai
