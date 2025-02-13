@@ -1,0 +1,6 @@
+ClaimID,ClaimType,PolicyID,ClaimDate,ClaimAmount,PolicyName,PolicyType,CoverageArea,PolicyStartDate
+CLAIM001,Water Damage,POLICY101,2023-10-26,1500,Homeowner's Basic,Home,Residential,2022-05-15
+CLAIM002,Car Accident,POLICY201,2023-11-15,3200,Auto Standard,Car,Vehicle,2023-01-20
+CLAIM003,Water Damage,POLICY102,2023-11-20,2100,Homeowner's Premium,Home,Residential,2023-03-10
+CLAIM004,Theft,POLICY101,2023-11-25,800,Homeowner's Basic,Home,Residential,2022-05-15
+CLAIM005,Car Accident,POLICY202,2023-12-01,5500,Auto Premium,Car,Vehicle,2023-06-01
