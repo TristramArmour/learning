@@ -22,8 +22,6 @@ dependencies:
 - tqdm
 - pip
 - watermark
-- pywin32  # this is not compatible with unix installs 
-- m2w64-toolchain  # this is not compatible with unix installs 
 - xlrd
 - xlwt
 - xlsxwriter

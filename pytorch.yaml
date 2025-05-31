@@ -1,0 +1,23 @@
+name: pytorch
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - ipykernel
+  - tqdm
+  - tensorboard
+  - opencv
+  - pillow
+  - transformers
+  - datasets
+  - nltk
+  - spacy
+  - scipy
+  - pip
